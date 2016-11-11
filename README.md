@@ -22,11 +22,11 @@ This challenge shows you how to deploy a Bluemix application, use IBM Bluemix De
 
   [![IBM Bluemix DevOps Services](./img/devops.png)](./img/devops.png)
 
-5. In this challenge, we’ll analyze a message for the Tone.
+5. In this challenge, we’ll analyze content for entities and keywords.
 
   [![IBM Bluemix DevOps Editor](./img/editor.png)](./img/editor.png)
 
-6. Replace the text on `This content is analyzed by AlchemyAPI for entities and keywords and returns the sentiment around any found.` on line 46 with the variable `content` as shown below.
+6. Replace the text `This content is analyzed by AlchemyAPI for entities and keywords and returns the sentiment around any found.` on line 46 with the variable `content` as shown below.
 
   ```
   ...
